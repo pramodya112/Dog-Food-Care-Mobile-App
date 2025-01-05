@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">puppyplace</string>
+    <string name="image_description">Description of the image</string>
+    <string name="get_start">Get Start</string>
+    <string name="image_news_description_1">image_news_description_2</string>
+    <string name="image_news_description_2">image_news_description_2</string>
+    <string name="image_news_description_3">image_news_description_2</string>
+    <string name="image_news_description_4">image_news_description_2</string>
+    <string name="image_news_description_5">image_news_description_2</string>
+    <string name="image_news_head_description">image_news_head_description</string>
+
+
+</resources>

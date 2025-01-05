@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/pageback">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="Adnin Dashboard"
+        android:textColor="@color/brown"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <!-- Button to Add Items -->
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#626364"
+        android:onClick="onAddItemsClicked"
+        android:text="Add Items"
+        android:textColor="@android:color/white" />
+
+    <!-- Button to Add Newsfeed -->
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#626364"
+        android:onClick="onAddNewsfeedClicked"
+        android:text="Add Newsfeed"
+        android:textColor="@android:color/white" />
+
+    <!-- Back Button -->
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#626364"
+        android:onClick="onBackToLoginClicked"
+        android:text="Back to Login"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>

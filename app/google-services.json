@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367343468973",
+    "project_id": "puppyplace-b4f65",
+    "storage_bucket": "puppyplace-b4f65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367343468973:android:8b4448fed79e0a6b94e124",
+        "android_client_info": {
+          "package_name": "com.example.puppyplace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0MibaxwdmkaO1O_V7wDj1Dkyd6QlBj6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
